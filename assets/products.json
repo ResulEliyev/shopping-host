@@ -1,0 +1,15 @@
+[
+    {   
+    "id":1,
+    "name" :"Iphone 15 256GB",
+    "image": "https://m.media-amazon.com/images/I/619f09kK7tL.AC_UF894,1000_QL80.jpg",
+    "price":2500
+
+    },
+    {
+        "id":2,
+        "name" :"Samsung S24 ultra 512 GB",
+        "image": "https://www.bakuelectronics.az/assets/images/products/141509/samsung-galaxy-s24-ultra-19.jpg",
+        "price":3000
+    }
+]
